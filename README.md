@@ -1,2 +1,28 @@
-# 7ab9efb9-barbershop-management-competit
-Your barbershop might be losing customers to the shop down the street—and you don’t even know why. This Notion template gives you a live edge by tracking everything your competitors do.  Barbershop Management Competitor Intelligence Tracker Notion Template turns scattered competitor data into a single, automated dashboard. No more manual spreadshee
+# Barbershop Management Competitor Intelligence Tracker Notion Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/7sY5kDfXx7Eo1debzSd0k0e)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/7sY5kDfXx7Eo1debzSd0k0e)
+
